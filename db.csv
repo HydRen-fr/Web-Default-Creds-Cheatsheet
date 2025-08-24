@@ -1,0 +1,616 @@
+productvendor,username,password
+3Com,<BLANK>,password
+3Com Wireless,admin,password
+3ware,a,3ware
+Acti,admin,123456
+Acti,Admin,123456
+Acti,admin,12345
+Acti,Admin,12345
+Adminer,root,123456789
+Adminer,root,123456
+Adminer,root,123
+Adminer,root,root
+Adminer,root,toor
+Adobe AEM,admin,admin
+Adobe AEM,anonymous,anonymous
+Adobe AEM,aparker@geometrixx.info,aparker
+Adobe AEM,author,author
+Adobe AEM,grios,password
+Adobe AEM,jdoe@geometrixx.info,jdoe
+Adobe AEM,replication-receiver,replication-receiver
+Adobe AEM,vgnadmin,vgnadmin
+Alibaba Canal,admin,123456
+Alibaba Nacos,nacos,nacos
+Allnet,admin,admin
+AlphaWeb,admin,alphaadmin
+American Dynamics,admin,9999
+American Dynamics,admin,admin
+AmpJuke,admin,pass
+Apache,admin,admin
+Apache,admin,<blank>
+Apache,admin,j5Brn9
+Apache,admin,jboss4
+Apache,admin,tomcat
+Apache,both,tomcat
+Apache,role1,role1
+Apache,role1,tomcat
+Apache,role,changethis
+Apache,root,changethis
+Apache,root,root
+Apache,tomcat,changethis
+Apache ActiveMQ,admin,admin
+Apache ActiveMQ,user,user
+Apache ActiveMQ Artemis,artemis,artemis
+Apache Airflow,airflow,airflow
+Apache Airflow,airflow,airflow
+Apache Ambari,admin,admin
+Apache APISIX,admin,admin
+Apache Apollo,admin,admin
+Apache CloudStack,admin,password
+Apache CouchDB,admin,admin
+Apache CouchDB,admin,couchdb
+Apache CouchDB,administrator,admin
+Apache CouchDB,administrator,couchdb
+Apache CouchDB,administrator,password
+Apache CouchDB,administrator,test
+Apache CouchDB,admin,password
+Apache CouchDB,admin,test
+Apache CouchDB,couchdb,admin
+Apache CouchDB,couchdb,couchdb
+Apache CouchDB,couchdb,password
+Apache CouchDB,couchdb,test
+Apache CouchDB,root,admin
+Apache CouchDB,root,couchdb
+Apache CouchDB,root,password
+Apache CouchDB,root,test
+Apache DolphinScheduler,admin,dolphinscheduler123
+Apache Doris,admin,<BLANK>
+Apache Doris,root,<BLANK>
+Apache Druid,admin,admin
+Apache Dubbo Admin,guest,guest
+Apache Dubbo Admin,root,root
+Apache Guacamole,guacadmin,guacadmin
+Apache Hertzbeat,admin,<BLANK>
+Apache Hertzbeat,<BLANK>,hertzbeat
+Apache Hertzbeat,guest,<BLANK>
+Apache Hertzbeat,lili,<BLANK>
+Apache Hertzbeat,tom,<BLANK>
+Apache Karaf,karaf,karaf
+Apache Kylin,admin,123456
+Apache Kylin,ADMIN,123456
+Apache Kylin,admin,kylin
+Apache Kylin,admin,KYLIN
+Apache Kylin,ADMIN,kylin
+Apache Kylin,ADMIN,KYLIN
+Apache OFBiz,admin,ofbiz
+Apache Project,jj,<blank>
+Apache Ranger,admin,admin
+Apache Tomcat,admin,admin
+Apache Tomcat,ADMIN,ADMIN
+Apache Tomcat,admin,<BLANK>
+Apache Tomcat,admin,j5Brn9
+Apache Tomcat,admin,tomcat
+Apache Tomcat,cxsdk,kdsxc
+Apache Tomcat,j2deployer,j2deployer
+Apache Tomcat,ovwebusr,OvW*busr1
+Apache Tomcat,QCC,QLogic66
+Apache Tomcat,role1,role1
+Apache Tomcat,role1,tomcat
+Apache Tomcat,role,changethis
+Apache Tomcat,root,root
+Apache Tomcat,tomcat,changethis
+Apache Tomcat,tomcat,s3cret
+Apache Tomcat,tomcat,tomcat
+Apache Tomcat,xampp,xampp
+APC Network Management Card,admin,admin
+APC Network Management Card,apc,apc
+APC UPS,apc,apc
+Arecont,admin,<BLANK>
+Arecont,<BLANK>,<BLANK>
+ARL,admin,arlpass
+Aruba Instant,admin,admin
+ASUS RT-N16,admin,admin
+ASUS WL-500g,admin,admin
+ASUS WL-520GU,admin,admin
+Atlassian,crowd-openid-server,password
+Atlassian,Crowd,password
+Atlassian,Demo,password
+Atlassian,Username,password
+Atlassian Confluence,disabledsystemuser,disabled1system1user6708
+AudioCodes,admin,1234
+AudioCodes Mediant 1000,Admin,Admin
+Avaya Contact Center,admin,webadmin
+Avigilon,admin,admin
+Avigilon,Administrator,<BLANK>
+Avtech,admin,admin
+Axis,root,admin
+Axis,root,pass
+Azkaban,admin,admin
+Barco ClickShare,admin,admin
+Barracuda,admin,admin
+Barracuda,ssladmin,ssladmin
+Basler,admin,admin
+Batflat,admin,admin
+BigAnt Messenger,superadmin,123456
+BloofoxCMS,admin,admin
+Bomgar,admin,password
+Bonitasoft BPM,install,install
+Brickcom,admin,admin
+CA APM Team Center,Admin,<BLANK>
+CA APM Team Center,Guest,Guest
+Caimore,admin,admin
+Camaleon CMS,admin,admin123
+Cambium Networks,admin,admin
+Cambium Networks,root,root
+Camunda,demo,demo
+CA NetQoS,nqadmin,nq
+CA NetQoS,nquser,nq
+Canon,root,camera
+Canon C3325,Administrator,7654321
+CapRover,<BLANK>,captain42
+Checkpoint,admin,abc123
+Checkpoint,admin,admin
+China Unicom,CUAdmin,CUAdmin
+ChirpStack,admin,admin
+Cisco,admin,admin
+Cisco,admin,<blank>
+Cisco,admin,changeme
+Cisco,admin,cisco
+Cisco,admin,default
+Cisco,Administrator,admin
+Cisco,Administrator,changeme
+Cisco,admin,localadmin
+Cisco,admin,tsunami
+Cisco,<blank>,<blank>
+Cisco,<blank>,cisco
+Cisco,<blank>,Cisco
+Cisco,cisco,<blank>
+Cisco,cisco,cisco
+Cisco,Cisco,Cisco
+Cisco,enable,<blank>
+Cisco,enable,cisco
+Cisco,guest,<blank>
+Cisco,root,Cisco
+Cisco,root,password
+Citrix Systems,nsroot,nsroot
+Citrix Systems,root,rootadmin
+CNZXSoft,admin,zxsoft1234!@#$
+Cobbler,cobbler,cobbler
+Cobbler,testing,testing
+cPanel,admin,admin
+cPanel,admin,<blank>
+cPanel,admin,password
+cPanel,<blank>,<blank>
+cPanel,root,admin
+cPanel,root,changeme
+cPanel,root,password
+cPanel,root,root
+cPanel,user,user
+cPanel,webmail,test
+CrushFTP,crushadmin,crushadmin
+CS141,admin,cs141-snmp
+CS141,engineer,engineer
+CS141,guest,guest
+Ctrip Apollo,apollo,admin
+CWP,admin,admin
+DataEase,demo,dataease
+DataGerry,admin,admin
+Dataiku,admin,admin
+DataStax OpsCenter 6.0.x,admin,admin
+Dell DPI,admin,admin
+Dell iDRAC,root,calvin
+Dell iDRAC,root,root
+Dell iDRAC 9,root,calvin
+Deluge,<BLANK>,deluge
+Dialogic XMS,admin,admin
+Digital Rebar,rocketskates,r0cketsk8ts
+Dlink,1234,1234
+Dlink,admin,admin
+Dlink,root,12345
+Dlink,root,root
+D-Link Centralized Management,admin,admin
+Dragonfly,root,dragonfly
+Drupal,admin,admin
+DVWA,admin,password
+DW Spectrum (Digital Watchdog),admin,admin12345
+DW Spectrum (Digital Watchdog),admin,admin1234
+DW Spectrum (Digital Watchdog),admin,admin
+DW Spectrum (Digital Watchdog),admin,Dw5pectrum
+DW Spectrum (Digital Watchdog),dwuser,admin12345
+DW Spectrum (Digital Watchdog),dwuser,admin1234
+DW Spectrum (Digital Watchdog),dwuser,admin
+DW Spectrum (Digital Watchdog),dwuser,Dw5pectrum
+Dynatrace,admin,admin
+EasyReport,admin,123456
+Elasticsearch,<BLANK>,<BLANK>
+ElasticSearch,elastic,changeme
+E-Log,admin,admin
+E-Log,admin,password
+EMC eCOM,admin,#1Password
+Empire C2,empireadmin,password123
+EMQX Broker,admin,public
+EnviroMuux,root,nti
+ESafenet CDG,configadmin,12345678
+ESafenet CDG,configadmin,123456
+ESafenet CDG,configadmin,Est@Spc2018
+ESafenet CDG,configadmin,Est@Spc2019
+ESafenet CDG,configadmin,Est@Spc2020
+ESafenet CDG,configadmin,Est@Spc2021
+ESafenet CDG,configadmin,Est@Spc2022
+ESafenet CDG,configadmin,Est@Spc820
+ESafenet CDG,docadmin,12345678
+ESafenet CDG,docadmin,123456
+ESafenet CDG,docadmin,Est@Spc2018
+ESafenet CDG,docadmin,Est@Spc2019
+ESafenet CDG,docadmin,Est@Spc2020
+ESafenet CDG,docadmin,Est@Spc2021
+ESafenet CDG,docadmin,Est@Spc2022
+ESafenet CDG,docadmin,Est@Spc820
+ESafenet CDG,secadmin,12345678
+ESafenet CDG,secadmin,123456
+ESafenet CDG,secadmin,Est@Spc2018
+ESafenet CDG,secadmin,Est@Spc2019
+ESafenet CDG,secadmin,Est@Spc2020
+ESafenet CDG,secadmin,Est@Spc2021
+ESafenet CDG,secadmin,Est@Spc2022
+ESafenet CDG,secadmin,Est@Spc820
+ESafenet CDG,systemadmin,12345678
+ESafenet CDG,systemadmin,123456
+ESafenet CDG,systemadmin,Est@Spc2018
+ESafenet CDG,systemadmin,Est@Spc2019
+ESafenet CDG,systemadmin,Est@Spc2020
+ESafenet CDG,systemadmin,Est@Spc2021
+ESafenet CDG,systemadmin,Est@Spc2022
+ESafenet CDG,systemadmin,Est@Spc820
+ETL 3100,user,etl3100rt1234
+ExacqVision,admin,admin256
+FeiyuXing,admin,admin
+FileGator,admin,admin123
+FLIR Systems,admin,admin
+Fortinet,admin,<BLANK>
+Fortinet,maintainer,admin
+Fortinet,maintainer,bcpb+serial#
+Franklin Fueling Systems,roleAdmin,admin
+FRP (Fast Reverse Proxy),admin,admin
+FS Switch,admin,admin123
+FuelCMS,admin,admin
+Fuji Xerox,11111,x-admin
+GarrettCom Magnum Switch,manager,manager
+GeoServer,admin,geoserver
+Geovision,admin,admin
+Gitblit,admin,admin
+GitLab,root,5iveL!fe
+GLPI (IT Asset Management),glpi,glpi
+GoIP Gateway,admin,1234
+GoIP Gateway,admin,admin
+GoIP Gateway,admin,root
+GoIP Gateway,root,1234
+GoIP Gateway,root,admin
+GoIP Gateway,root,root
+GoIP Gateway,sms,1234
+GoIP Gateway,sms,admin
+GoIP Gateway,sms,root
+GoIP Gateway,user,1234
+GoIP Gateway,user,admin
+GoIP Gateway,user,root
+GoPhish,admin,gophish
+Grafana,admin,admin
+Grafana,admin,prom-operator
+Grandstream,admin,admin
+Haivision Makito X Decoder,admin,manager
+Honeywell,admin,1234
+Hongdian,admin,admin
+Hongdian,guest,guest
+HPE UCMDB,diagnostics,admin
+HP Network Switch,admin,<BLANK>
+HP Server Automation,Administrator,admin
+HP Server Automation,admin,opsware_admin
+Huawei Application Manager,admin,admin
+IBM DCBC,odmAdmin,odmAdmin
+IBM DCEC,odmAdmin,odmAdmin
+IBM DSC,odmAdmin,odmAdmin
+IBM Hardware Management Console,hscroot,abc123
+IBM IMM,USERID,PASSW0RD
+IBM MQ,admin,passw0rd
+IBM MQ,app,passw0rd
+IBM MQ,mqadmin,mqadmin
+IBM Netezza,admin,password
+IBM Security Verify,admin,admin
+IBM UrbanCode Deploy,admin,admin
+IBM UrbanCode Deploy,ucdpadmin,ucdpadmin
+IDEMIA Biometrics,<BLANK>,12345
+Inspur ClusterEngine,admin|pwd,123456
+IPTime,admin,admin
+Iqinvision,root,system
+iRZ Mobile Router,root,root
+ISPConfig Admin Panel,admin,admin
+ISPConfig Admin Panel,guest,password
+ISPConfig Admin Panel,root,toor
+ISPConfig Hosting Control Panel,admin,admin
+JAMF NetSUS,webadmin,webadmin
+JasperReports,jasperadmin,bitnami
+JasperReports,jasperadmin,jasperadmin
+Java JMX,admin,123456789
+Java JMX,admin,123456
+Java JMX,admin,12345
+Java JMX,admin,1234
+Java JMX,admin,123qwe
+Java JMX,admin,admin
+Java JMX,admin,root
+Java JMX,root,123456789
+Java JMX,root,123456
+Java JMX,root,12345
+Java JMX,root,1234
+Java JMX,root,123qwe
+Java JMX,root,admin
+Java JMX,root,root
+Jeedom,admin,admin
+Jellyfin,admin,admin
+Jellyfin,administrator,admin
+Jellyfin,administrator,jellyfin
+Jellyfin,administrator,password
+Jellyfin,administrator,test
+Jellyfin,admin,jellyfin
+Jellyfin,admin,password
+Jellyfin,admin,test
+Jellyfin,jellyfin,admin
+Jellyfin,jellyfin,jellyfin
+Jellyfin,jellyfin,password
+Jellyfin,jellyfin,test
+Jenkins,<BLANK>,<BLANK>
+Jinher OA,admin,000000
+Joplin,admin@localhost,admin
+JupyterHub,admin,admin
+JupyterHub,jovyan,jupyter
+JVC,admin,jvc
+KACE,admin,admin
+KACE,admin,admin
+KACE,kbftp,getbxf
+KACE,kbox1248163264128256,kbox1248163264128256
+KACE,R1,box747
+Kafka Center,admin,admin
+Kanboard,admin,admin
+Keepeek,admin,password
+Kingsoft V8,admin,admin
+KLOG Server,admin,admin
+Kloxo (RoundCube),<BLANK>,pass
+Konica Minolta,admin,administrator
+Konica Minolta,<BLANK>,0000
+Konica Minolta,<BLANK>,0
+Konica Minolta,<BLANK>,1234567812345678
+Konica Minolta,<BLANK>,1234
+Konica Minolta,<BLANK>,<BLANK>
+Konica Minolta,<BLANK>,MagiMFP
+Konica Minolta,<BLANK>,sysAdmin
+Konica Minolta,<BLANK>,sysadm
+Lenovo IMM,USERID,PASSWORD
+Leostream,admin,leo
+LinkedIn DataHub,datahub,datahub
+Lucee,<BLANK>,connections
+Lutron,lutron,lutron
+Magnolia CMS,superuser,superuser
+MagnusBilling,root,9F4CA770B638615AC5C3E0D2DA16B77C80C2F2C6
+Makito Decoder,admin,%89%F0%01%8F%D0%01%80%F0%01%85%D0%01%83%F0%01%83%E0%01%84%F0%01
+Matomo,admin,admin
+Matomo,admin,password
+Microsoft PowerShell,admin,admin
+Microsoft PowerShell,admin,password
+Microsoft PowerShell,admin,powershell
+MinIO,minioadmin,minioadmin
+Mobotix,admin,meinsm
+MOFI4500 Router,root,admin
+Nagios,nagiosadmin,nagiosadmin
+Nagios,root,nagiosxi
+Nagios XI,nagiosadmin,nagiosadmin
+Nagios XI,root,nagiosxi
+NetBackup OpsCenter Analytics,admin,password
+NetDisco,netdisco,netdisco
+NetFlow,admin,admin
+NetMan,admin,admin
+Next Terminal,admin,admin
+Nginx Proxy Manager,admin@example.com,changeme
+NocoBase,admin@nocobase.com,admin123
+Node-RED,admin,password
+Nortel Integrated Call Director,admin,admin
+NPS (Reverse Proxy),admin,123
+NSICG,ns25000,ns25000
+NUUO NVR,admin,admin
+O2OA,xadmin,o2
+OctoberCMS,admin,admin
+OctoberCMS,admin,<BLANK>
+OpenCATS,admin,admin
+OpenCATS,cats@rootadmin,cats
+OpenCATS,john@mycompany.net,password
+OpenCATS,username,john99
+OpenEMR,admin,pass
+OpenMediaVault,admin,openmediavault
+OpenSearch,admin,admin
+Oracle Business Intelligence,Administrator,Administrator
+Oracle Glassfish,admin,admin
+Oracle Glassfish,admin,<BLANK>
+Oracle PeopleSoft,HFG,HFG
+Oracle PeopleSoft,HHR_CMP,HHR_CMP
+Oracle PeopleSoft,HHR_JPM,HHR_JPM
+Oracle PeopleSoft,PSADMIN,PSADMIN
+Oracle PeopleSoft,PSCR,PSCR
+Oracle PeopleSoft,PSEM,PSEM
+Oracle PeopleSoft,PSHC,PSHC
+Oracle PeopleSoft,PS,PS
+Oracle PeopleSoft,PSPY,PSPY
+Oracle PeopleSoft,VP1,VP1
+Orange livebox4 ,admin,<BLANK>
+OSASI,1234,1234
+Paessler PRTG,prtgadmin,prtgadmin
+Palo Alto PAN-OS,admin,admin
+Panabit,admin,panabit
+Panabit IXCache,admin,ixcache
+PCOWeb,admin,fadmin
+Pentaho,admin,password
+Pentaho Kettle,cluster,cluster
+Pfsense,admin,pfsense
+PhotoPrism,admin,admin321
+phpMyAdmin,mysql,123456
+phpMyAdmin,mysql,mysql
+phpMyAdmin,mysql,root
+phpMyAdmin,mysql,toor
+phpMyAdmin,root,123456
+phpMyAdmin,root,mysql
+phpMyAdmin,root,root
+phpMyAdmin,root,toor
+PowerJob,powerjob-worker-samples,powerjob123
+Pulse Secure,admin,password
+pyLoad,pyload,pyload
+RabbitMQ,guest,guest
+RainLoop,admin,12345
+Rancher,admin,admin
+RConfig,admin,admin
+Red Hat JBoss jBPM,admin,admin
+Red Hat JBoss jBPM,manager,manager
+Red Hat JBoss jBPM,shipper,shipper
+Red Hat JBoss jBPM,user,user
+Redmine,admin,admin
+Rocket LMS,admin@demo.com,admin
+Rocket LMS,instructor@demo.com,instructor
+Rocket LMS,student@demo.com,student
+RockMongo,admin,admin
+RSeeNet,admin,conel
+Ruckus Wireless,super,sp-admin
+Ruijie Networks,admin,admin
+Rundeck,admin,admin
+Samsung,admin,1111111
+Samsung,admin,4321
+Samsung,root,admin
+Samsung Printer,admin,sec00000
+Samsung WLAN,root,sweap12~
+SAP,admin,axis2
+SAP,Administrator,manage
+SAP,ctb_admin,sap123
+SAP,DDIC,19920706
+SAP,Developer,isdev
+SAP,EARLYWATCH,SUPPORT
+SAP,itsadmin,init
+SAP,Replicator,iscopy
+SAP,SAP*,06071992
+SAP,SAP*,7061992
+SAP,SAPCPIC,admin
+SAP,SAPCPIC,ADMIN
+SAP,SAP*,PASS
+SAP,SAPR3,SAP
+SAP,TMSADM,<BLANK>
+SAP,xmi_demo,sap123
+SAP client EARLYWATCH,admin,Support
+SAP Hybris,admin,nimda
+SATO,service,6677
+SATO,settings,0310
+Schneider M340,USER,USER
+Schneider Premium,USER,USER
+SecNet AC,admin,admin
+SeedDMS,admin,admin
+Seeyon A8,audit-admin,seeyon123456
+Seeyon Monitor,<BLANK>,WLCCYBD@SEEYON
+Sentry360 Mini,admin,1234
+SequoiaDB,admin,admin
+ShowDoc,showdoc,123456
+Siemens,admin,admin
+Siemens S7-1200,admin,<BLANK>
+Siemens Simatic,Administrator,100
+SmartSense,admin,admin
+SoftEther VPN,administrator,None
+Software AG WebMethods,Administrator,manage
+Software AG WebMethods,Developer,isdev
+Software AG WebMethods,Replicator,iscopy
+Software AG WebMethods,SAPUser,22101999
+SolarWinds,admin,<BLANK>
+SonarQube,admin,admin
+SonarQube,admin,sonar
+SonarQube,sonar,admin
+SonarQube,sonar,sonar
+Sonatype Nexus,admin,admin123
+Sophos,admin,admin
+SOPlanning,admin,admin
+Speco,admin,1234
+Spectracom,spadmin,admin123
+Splunk,admin,admin
+Splunk,root,toor
+Splunk,splunk,splunk
+StackStorm,st2admin,Ch@ngeMe
+Stardot,admin,admin
+Steve,admin,1234
+Structurizr,structurizr,password
+Supermicro,admin,admin
+Supermicro,ADMIN,ADMIN
+SuperShell,tdragon6,tdragon6
+SZHE,springbird@qq.com,springbird
+TeamCity 9 Guest,<BLANK>,<BLANK>
+Telecom Gateway,admin,admin
+Teleopti WFM,admin@company.com,admin
+Thales CipherTrust,admin,admin
+TimeKeeper,admin,timekeeper
+Tiny File Manager,admin,admin@123
+ToolJet,dev@tooljet.io,password
+Topnet,topadmin,topadmin
+Toshiba TopAccess,admin,123456
+TP-Link R470T,admin,admin
+TP-Link WR940N,admin,admin
+Trassir,Admin,12345
+TYPO3,admin,password
+TYPO3,<BLANK>,joh316
+Ucopia,admin,ucopia
+Umami Analytics,admin,umami
+Unify HiPath,Unify,1q21q2
+Vacron,admin,admin
+Versa FlexVNF,admin,versa123
+Versa FlexVNF,versa,versa123
+Versa Networks,Administrator,versa123
+VideoIQ,supervisor,supervisor
+Vidyo,super,password
+VisionHub,admin,admin
+Voyager Admin (DevDojo),admin@admin.com,password
+WAGO WebBased Management,admin,wago
+WatchGuard,admin,admin
+WatchGuard,admin,<BLANK>
+WatchGuard,admin,readwrite
+WatchGuard,<BLANK>,wg
+WatchGuard,status,readonly
+WatchGuard,user,pass
+Wazuh,admin,admin
+Wazuh,admin,SecretPassword
+Wazuh,admin,wazuh
+Wazuh,wazuh,admin
+Wazuh,wazuh,SecretPassword
+Wazuh,wazuh,wazuh
+WebLogic,EXAMPLES,EXAMPLES
+WebLogic,monitor,password
+WebLogic,operator,password
+WebLogic,operator,weblogic
+WebLogic,PUBLIC,PUBLIC
+WebLogic,system,manager
+WebLogic,system,Passw0rd
+WebLogic,system,password
+WebLogic,system,welcome(1)
+WebLogic,weblogic,weblogic1
+WebLogic,weblogic,weblogic
+WebLogic,WEBLOGIC,WEBLOGIC
+WebLogic,weblogic,welcome(1)
+Webmin,admin,admin
+Webmin,admin,admin
+Webmin,admin,password
+Webmin,root,password
+Webmin,root,root
+WebSphere,system,manager
+WiFiSky,admin,admin
+WildFly,admin,admin
+WSO2,admin,admin
+XAMPP,newuser,wampp
+Xerox 7,admin,1111
+XNAT,admin,admin
+XploitSpy,admin,password
+X UI,admin,admin
+XXLJob,admin,123456
+Yacht,admin@yacht.local,pass
+Yealink,admin,0000
+Yealink,user,user
+Zabbix,Admin,zabbix
+Zebra Printer,1234,<BLANK>
+Zebra Printer,admin,1234
+Zmanda,admin,admin
